@@ -1,0 +1,2 @@
+This is my first devops file
+Git is a version control where branches help in parallel development.
